@@ -72,6 +72,9 @@ MIT
 @angular/platform-server
 MIT
 
+@angular/service-worker
+MIT
+
 @babel/runtime
 MIT
 MIT License
